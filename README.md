@@ -1,4 +1,5 @@
--- This repo contains files and folders related to a javascript tutorial taught by Brad Traversy. 
--- It involves building 50 small javascript projects in 50 days. 
--- The course teaches HTML5, CSS3 and Vanilla javascript.
--- Course - https://50projects50days.com
+text
+- This repo contains files and folders related to a javascript tutorial taught by Brad Traversy. 
+- It involves building 50 small javascript projects in 50 days. 
+- The course teaches HTML5, CSS3 and Vanilla javascript.
+- Course - https://50projects50days.com
